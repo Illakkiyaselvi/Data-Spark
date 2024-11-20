@@ -1,19 +1,4 @@
-{
- "cells": [],
- "metadata": {
-  "kernelspec": {
-   "display_name": ".venv",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "name": "python",
-   "version": "3.12.7"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 2
-}
+
 -----------------------------------
 SELECT * FROM customers1;
 SELECT * FROM sales;
